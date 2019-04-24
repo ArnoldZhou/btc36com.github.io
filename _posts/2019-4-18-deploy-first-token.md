@@ -60,6 +60,10 @@ tags:
 
 ![Image text](https://www.btc36.com/yidaibi/11.jpg)
 
+如有疑问，可添加微信或QQ 231799955
+或扫描下方二维码
+![Image text](https://www.btc36.com/wechat.jpeg)
+
 ---
 
 
