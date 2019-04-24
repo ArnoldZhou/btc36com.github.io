@@ -42,13 +42,13 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 第二步 访问代币群发吧官网[https://www.qunfaba.com/](https://www.qunfaba.com/),选择代币，输入需要群发的地址，快速完成代币群发操作！
 
-一键发币示意图
+群发代币示意图
 
-![Image text](https://www.btc36.com/yidaibi/5.jpg)
+![Image text](https://www.btc36.com/qunfaba/1.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/6.jpg)
+![Image text](https://www.btc36.com/qunfaba/2.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/7.jpg)
+![Image text](https://www.btc36.com/qunfaba/3.jpg)
 
 ![Image text](https://www.btc36.com/yidaibi/8.jpg)
 
