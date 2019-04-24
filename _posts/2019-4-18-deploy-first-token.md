@@ -26,8 +26,9 @@ tags:
 
 谷歌Chrome浏览器免翻墙安装：[https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F](https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F)
 
+安装示意图
+
+![Image text](https://www.btc36.com/yidaibi/1.jpg)
 ---
 
-不过实话说，在 vim 中编辑中文的效率和体验和英文比都是大打折扣的。因为中文分词难度太高，不像英文可以简单依靠一个 `split " "` 搞定。所以其实无论 vim（`w`ord，`b`egin，`e`nd），emacs 还是操作系统自带的（比如 macOS 中的 `alt + 箭头`） 「按词移动」功能对于中文都仅仅是跳转到下一个空格处而已，对于中文来说基本就是下一句了……其他常用操作诸如 `f`，`/`, `r`eplace, `t`ill 也都无法很好的工作。
 
-不过也算聊胜于无吧，由于我常用 HHKB，能用 vim 操作的一个子集（`hjkl`, `o`, `A`, `I`, `v` etc.）可能也比按住 `Fn` 的方向键好用……
