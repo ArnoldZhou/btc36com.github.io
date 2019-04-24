@@ -40,41 +40,7 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 
 
-![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
-(PS:如果习惯使用手机钱包，我们推荐使用[Imtoken钱包](https://token.im/)，[Trust钱](https://trustwallet.com/)和[麦子钱包](http://mathwallet.org/cn/)完成发币操作)
-
-第二步 访问代币群发吧官网[https://www.qunfaba.com/](https://www.qunfaba.com/),选择代币，输入需要群发的地址，快速完成代币群发操作！
-
-群发代币示意图
-
-![Image text](https://www.btc36.com/qunfaba/1.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/2.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/3.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/4.jpg)
-
-第三步 以太坊钱包弹出支付矿工交易费的提示，确认支付，群发完成！
-
-确认支付示意图
-
-![Image text](https://www.btc36.com/qunfaba/5.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/6.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/7.jpg)
-
-![Image text](https://www.btc36.com/qunfaba/8.jpg)
-
-群发效果示意图
-
-![Image text](https://www.btc36.com/qunfaba/9.jpg)
-
-如有疑问，可添加微信或QQ 231799955
-或扫描下方二维码
-![Image text](https://www.btc36.com/wechat.jpeg)
 
 ---
 
