@@ -40,11 +40,11 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 4.点击 创建钱包
 
-![Image text](https://www.btc36.com/metatamask/1.jpg)
+![Image text](https://www.btc36.com/metamask/1.jpg)
 
 5。点击 我同意
 
-![Image text](https://www.btc36.com/metatamask/2.jpg)
+![Image text](https://www.btc36.com/metamask/2.jpg)
 
 ---
 
