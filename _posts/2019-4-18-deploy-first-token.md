@@ -38,6 +38,8 @@ tags:
 
 (PS:如果习惯使用手机钱包，我们推荐使用[Imtoken钱包](https://token.im/)，[Trust钱](https://trustwallet.com/)和[麦子钱包](http://mathwallet.org/cn/)完成发币操作)
 
+第二步 访问易代币官网[https://www.yidaibi.me/](https://www.yidaibi.me/),按提示完成发币操作，只需要五分钟时间！
+
 ---
 
 
