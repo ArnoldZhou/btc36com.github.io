@@ -42,9 +42,13 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/metamask/1.jpg)
 
-5。点击 我同意
+5.点击 我同意
 
 ![Image text](https://www.btc36.com/metamask/2.jpg)
+
+6.输入两次8位密码，选择同意条款，点击 创建
+
+![Image text](https://www.btc36.com/metamask/3.jpg)
 
 ---
 
