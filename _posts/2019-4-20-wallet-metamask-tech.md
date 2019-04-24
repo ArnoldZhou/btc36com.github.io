@@ -34,7 +34,11 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/yidaibi/2.jpg)
 
+3.点击开始
+
 ![Image text](https://www.btc36.com/yidaibi/3.jpg)
+
+
 
 ![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
