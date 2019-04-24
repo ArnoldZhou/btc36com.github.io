@@ -40,6 +40,18 @@ tags:
 
 第二步 访问易代币官网[https://www.yidaibi.me/](https://www.yidaibi.me/),按提示完成发币操作，只需要五分钟时间！
 
+一键发币示意图
+
+![Image text](https://www.btc36.com/yidaibi/5.jpg)
+
+![Image text](https://www.btc36.com/yidaibi/6.jpg)
+
+![Image text](https://www.btc36.com/yidaibi/7.jpg)
+
+![Image text](https://www.btc36.com/yidaibi/8.jpg)
+
+![Image text](https://www.btc36.com/yidaibi/9.jpg)
+
 ---
 
 
