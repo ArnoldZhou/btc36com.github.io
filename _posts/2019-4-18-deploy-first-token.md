@@ -24,6 +24,8 @@ tags:
 
 谷歌Chrome浏览器下载链接：[https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN](https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN)
 
+谷歌Chrome浏览器免翻墙安装：[https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F](https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F)
+
 ---
 
 不过实话说，在 vim 中编辑中文的效率和体验和英文比都是大打折扣的。因为中文分词难度太高，不像英文可以简单依靠一个 `split " "` 搞定。所以其实无论 vim（`w`ord，`b`egin，`e`nd），emacs 还是操作系统自带的（比如 macOS 中的 `alt + 箭头`） 「按词移动」功能对于中文都仅仅是跳转到下一个空格处而已，对于中文来说基本就是下一句了……其他常用操作诸如 `f`，`/`, `r`eplace, `t`ill 也都无法很好的工作。
