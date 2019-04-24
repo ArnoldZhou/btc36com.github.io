@@ -50,17 +50,17 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/qunfaba/3.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/8.jpg)
-
-![Image text](https://www.btc36.com/yidaibi/9.jpg)
+![Image text](https://www.btc36.com/qunfaba/4.jpg)
 
 第三步 以太坊钱包弹出支付矿工交易费的提示，确认支付，群发完成！
 
 确认支付示意图
 
-![Image text](https://www.btc36.com/yidaibi/10.jpg)
+![Image text](https://www.btc36.com/qunfaba/5.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/11.jpg)
+![Image text](https://www.btc36.com/qunfaba/6.jpg)
+
+![Image text](https://www.btc36.com/qunfaba/7.jpg)
 
 如有疑问，可添加微信或QQ 231799955
 或扫描下方二维码
