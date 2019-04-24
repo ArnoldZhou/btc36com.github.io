@@ -30,17 +30,21 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/yidaibi/1.jpg)
 
-2.点击添加扩展程序
+2.点击 添加扩展程序
 
 ![Image text](https://www.btc36.com/yidaibi/2.jpg)
 
-3.点击开始
+3.点击 开始
 
 ![Image text](https://www.btc36.com/yidaibi/3.jpg)
 
+4.点击 创建钱包
 
+![Image text](https://www.btc36.com/metatamask/1.jpg)
 
+5。点击 我同意
 
+![Image text](https://www.btc36.com/metatamask/2.jpg)
 
 ---
 
