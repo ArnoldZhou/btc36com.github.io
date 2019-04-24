@@ -30,6 +30,8 @@ tags:
 
 ![Image text](https://www.btc36.com/yidaibi/1.jpg)
 
+![Image text](https://www.btc36.com/yidaibi/2.jpg)
+
 ---
 
 
