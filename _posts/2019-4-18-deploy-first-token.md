@@ -52,6 +52,14 @@ tags:
 
 ![Image text](https://www.btc36.com/yidaibi/9.jpg)
 
+第三步 以太坊钱包弹出支付矿工交易费的提示，确实支付，发币完成！
+
+确认支付示意图
+
+![Image text](https://www.btc36.com/yidaibi/10.jpg)
+
+![Image text](https://www.btc36.com/yidaibi/11.jpg)
+
 ---
 
 
