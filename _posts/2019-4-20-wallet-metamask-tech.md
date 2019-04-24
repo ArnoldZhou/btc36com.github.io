@@ -88,6 +88,14 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/metamask/14.jpg)
 
+15.查看钱包地址的Etherscan区块链浏览器交易详情
+
+![Image text](https://www.btc36.com/metamask/15.jpg)
+
+![Image text](https://www.btc36.com/metamask/16.jpg)
+
+![Image text](https://www.btc36.com/metamask/17.jpg)
+
 ---
 
 
