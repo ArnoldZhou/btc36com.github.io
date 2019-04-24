@@ -106,6 +106,15 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/metamask/21.jpg)
 
+17.导入钱包地址
+
+![Image text](https://www.btc36.com/metamask/22.jpg)
+
+![Image text](https://www.btc36.com/metamask/23.jpg)
+
+![Image text](https://www.btc36.com/metamask/24.jpg)
+
+
 ---
 
 
