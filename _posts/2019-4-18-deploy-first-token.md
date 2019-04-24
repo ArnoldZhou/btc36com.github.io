@@ -26,6 +26,8 @@ tags:
 
 谷歌Chrome浏览器免翻墙安装：[https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F](https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F)
 
+MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.github.io/)
+
 安装示意图
 
 ![Image text](https://www.btc36.com/yidaibi/1.jpg)
