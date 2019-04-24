@@ -20,6 +20,8 @@ Hey，我是范春，区块链技术从业者一名，多出没于[博客](https
 - [CSS Still Sucks 2015][2] · 2015
 - [JavaScript 模块化七日谈][1] · 2015
 
+![Image text](https://www.btc36.com/img/avatar-hux-ny.jpg)
+
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
 [2]: //huangxuan.me/2015/12/28/css-sucks-2015/
 [3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
