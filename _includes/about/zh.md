@@ -14,7 +14,7 @@ Hey，我是范春，区块链技术从业者一名，多出没于[博客](https
 - Building Progressive Web Apps · [CSDI 广州 2018](http://www.csdisummit.com/)
 
 
-![Image text](https://www.btc36.com/img/avatar-hux-ny.jpg)
+![Image text](https://www.btc36.com/wechat.jpeg)
 
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
 [2]: //huangxuan.me/2015/12/28/css-sucks-2015/
