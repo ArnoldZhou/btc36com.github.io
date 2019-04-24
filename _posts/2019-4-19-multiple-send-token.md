@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "春天区块链（2）快速群发以太坊或以太坊代币给200个地址"
-subtitle: '用最简单的方式开始你的加密帝国'
+subtitle: '快速批量空投给10万以太坊地址的顶级方案'
 author: "范春"
 header-style: text
 tags:
