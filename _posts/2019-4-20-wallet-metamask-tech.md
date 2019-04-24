@@ -16,7 +16,7 @@ tags:
 
 ---
 
-1. 下载MetaMask钱包
+1.下载MetaMask钱包
 
 360极速浏览器下载链接：[https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi](https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi)
 
@@ -30,7 +30,7 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/yidaibi/1.jpg)
 
-2. 点击添加扩展程序
+2.点击添加扩展程序
 
 ![Image text](https://www.btc36.com/yidaibi/2.jpg)
 
