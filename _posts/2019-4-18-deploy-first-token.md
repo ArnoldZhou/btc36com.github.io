@@ -36,6 +36,8 @@ tags:
 
 ![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
+(如果习惯使用手机钱包，我们推荐使用[Imtoken钱包](https://token.im/)，[Trust钱](https://trustwallet.com/)和[麦子钱包](http://mathwallet.org/cn/)完成发币操作)
+
 ---
 
 
