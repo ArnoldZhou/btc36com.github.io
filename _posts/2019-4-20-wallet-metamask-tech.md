@@ -12,7 +12,7 @@ tags:
   - 加密资产管理库
 ---
 
-摘要: 下载以太坊钱包[MetaMask](https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi),登录代币群发吧网址[https://www.qunfaba.com/](https://www.qunfaba.com/),快速群发以太坊或以太坊代币给200个地址
+摘要: 下载安装以太坊钱包[MetaMask](https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi),并熟练操作该钱包
 
 ---
 
