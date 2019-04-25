@@ -56,6 +56,14 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/remix/6.jpg)
 
+第六步 确认并支付矿工费，部署完成
+
+![Image text](https://www.btc36.com/remix/7.jpg)
+
+![Image text](https://www.btc36.com/remix/9.jpg)
+
+![Image text](https://www.btc36.com/remix/10.jpg)
+
 轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
 
 如有疑问，可添加微信或QQ 231799955
