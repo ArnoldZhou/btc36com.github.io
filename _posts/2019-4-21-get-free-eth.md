@@ -9,7 +9,7 @@ tags:
   - 免费以太坊
   - 测试网络
   - 免费水管
-  - ropsten
+  - Ropsten
 ---
 
 摘要: 下载安装以太坊钱包[MetaMask](https://ext.chrome.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi),并领取免费的ETH
@@ -38,7 +38,9 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
+第二步 将钱包切换到Ropsten测试网络
 
+第三步 访问 [https://faucet.metamask.io/](https://faucet.metamask.io/) 水龙头网站，领取免费的Ropsten测试网络ETH
 
 或扫描下方二维码
 
