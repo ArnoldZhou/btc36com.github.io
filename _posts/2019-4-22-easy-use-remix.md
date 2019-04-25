@@ -42,6 +42,10 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/remix/1.jpg)
 
+第三步 在[etherscan.io](https://etherscan.io/)上找一个自己中意的合约代码。例如BNB的代码：[https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code),并点击复制
+
+![Image text](https://www.btc36.com/remix/2.jpg)
+
 轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
 
 如有疑问，可添加微信或QQ 231799955
