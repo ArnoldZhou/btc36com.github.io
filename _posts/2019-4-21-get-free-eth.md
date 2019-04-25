@@ -40,7 +40,10 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 第二步 将钱包切换到Ropsten测试网络
 
+![Image text](https://www.btc36.com/ropsten/1.jpg)
+
 第三步 访问 [https://faucet.metamask.io/](https://faucet.metamask.io/) 水龙头网站，领取免费的Ropsten测试网络ETH
+
 
 或扫描下方二维码
 
