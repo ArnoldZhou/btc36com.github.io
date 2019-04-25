@@ -48,6 +48,14 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/ropsten/3.jpg)
 
+其它测试网络的领取地址
+
+Kovan测试网络 https://gitter.im/kovan-testnet/faucet 需要登录聊天室 然后发送自己的以太坊地址
+
+![Image text](https://www.btc36.com/ropsten/4.jpg)
+
+如有疑问，可添加微信或QQ 231799955
+
 或扫描下方二维码
 
 ![Image text](https://www.btc36.com/wechat.jpeg)
