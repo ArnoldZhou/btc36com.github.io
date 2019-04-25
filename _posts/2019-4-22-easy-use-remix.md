@@ -38,7 +38,9 @@ MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.git
 
 ![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
-第二步 访问以太坊在线合约编译器 [http://eth3d.io](http://eth3d.io/)
+第二步 访问以太坊在线合约编译器 [http://eth3d.io](http://eth3d.io/) (可以用https访问，但是有数据交互和加载，所以不建议)
+
+![Image text](https://www.btc36.com/remix/1.jpg)
 
 轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
 
