@@ -54,6 +54,12 @@ Kovan测试网络 https://gitter.im/kovan-testnet/faucet 需要登录聊天室 �
 
 ![Image text](https://www.btc36.com/ropsten/4.jpg)
 
+Rinkeby测试网络 https://www.rinkeby.io/#faucet 需要在社交媒体发布带你的以太坊地址的文字，然后把链接地址填入选项框
+
+![Image text](https://www.btc36.com/ropsten/5.jpg)
+
+轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
+
 如有疑问，可添加微信或QQ 231799955
 
 或扫描下方二维码
