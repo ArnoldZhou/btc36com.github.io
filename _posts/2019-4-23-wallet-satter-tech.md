@@ -41,6 +41,10 @@ Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
 ![Image text](https://www.btc36.com/scatter/3.jpg)
 
+4.保存助记词，点击 我已保存
+
+![Image text](https://www.btc36.com/scatter/4.jpg)
+
 轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
 
 如有疑问，可添加微信或QQ 231799955
