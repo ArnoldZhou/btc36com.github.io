@@ -1,6 +1,6 @@
-# Hux Blog
+# 春天区块链
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [访问春天区块链 &rarr;](https://www.btc36.com/)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
