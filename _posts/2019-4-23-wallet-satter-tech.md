@@ -37,27 +37,9 @@ Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
 ![Image text](https://www.btc36.com/scatter/2.jpg)
 
-第三步 在[etherscan.io](https://etherscan.io/)上找一个自己中意的合约代码。例如BNB的代码：[https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code),并点击复制
+3.打开Scatter钱包，重复输入新密码，点击 创建新的Scatter
 
-![Image text](https://www.btc36.com/remix/2.jpg)
-
-第四步 将代码复制到[eth3d.io](http://eth3d.io/)编译器，并选择一个合适的编译版本。
-
-![Image text](https://www.btc36.com/remix/3.jpg)
-
-![Image text](https://www.btc36.com/remix/4.jpg)
-
-第五步 点击运行，输入适当的参数，并点击部署
-
-![Image text](https://www.btc36.com/remix/6.jpg)
-
-第六步 确认并支付矿工费，部署完成
-
-![Image text](https://www.btc36.com/remix/7.jpg)
-
-![Image text](https://www.btc36.com/remix/9.jpg)
-
-![Image text](https://www.btc36.com/remix/10.jpg)
+![Image text](https://www.btc36.com/scatter/3.jpg)
 
 轻松一键发币，访问易代币 [https://www.yidaibi.me/](https://www.yidaibi.me/)
 
