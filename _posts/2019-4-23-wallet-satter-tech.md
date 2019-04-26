@@ -71,6 +71,24 @@ Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
 ![Image text](https://www.btc36.com/scatter/10.jpg)
 
+11.将公钥发送给朋友，或者通过专业开通EOS账户的服务商注册EOS用户名
+
+12.点击 身份
+
+![Image text](https://www.btc36.com/scatter/11.jpg)
+
+13.点击 新建
+
+![Image text](https://www.btc36.com/scatter/12.jpg)
+
+14.选择刚刚创建的密钥对名称
+
+![Image text](https://www.btc36.com/scatter/13.jpg)
+
+15.点击 导入
+
+![Image text](https://www.btc36.com/scatter/14.jpg)
+
 如有疑问，可添加微信或QQ 231799955
 
 或扫描下方二维码
