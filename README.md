@@ -6,9 +6,9 @@
 
 
 
-## Boilerplate (beta)
+## 博客模板 (测试版)
 
-Want to clone a boilerplate instead of my buzz blog? Here comes this!  
+想克隆本博客网站模板而不是想访问春天区块链？方案来了！ 
 
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
