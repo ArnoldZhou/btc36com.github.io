@@ -33,9 +33,9 @@ Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
 
 
-第二步 访问以太坊在线合约编译器 [http://eth3d.io](http://eth3d.io/) (可以用https访问，但是有数据交互和加载，所以不建议)
+2.点击 添加扩展程序
 
-![Image text](https://www.btc36.com/remix/1.jpg)
+![Image text](https://www.btc36.com/scatter/2.jpg)
 
 第三步 在[etherscan.io](https://etherscan.io/)上找一个自己中意的合约代码。例如BNB的代码：[https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code),并点击复制
 
