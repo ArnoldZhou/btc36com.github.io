@@ -10,6 +10,26 @@
 
 ### https://www.btc36.com/2019/04/18/deploy-first-token/
 
+### 春天区块链（2）快速群发以太坊或以太坊代币给200个地址
+
+### https://www.btc36.com/2019/04/19/multiple-send-token/
+
+### 春天区块链（3）以太坊钱包MetaMask详尽教学指南
+
+### https://www.btc36.com/2019/04/20/wallet-metamask-tech/
+
+### 春天区块链（4）如何获得免费的ETH
+
+### https://www.btc36.com/2019/04/21/get-free-eth/
+
+### 春天区块链（5）怎样优雅的部署以太坊智能合约
+
+### https://www.btc36.com/2019/04/22/easy-use-remix/
+
+### 春天区块链（6）EOS柚子钱包Scatter详尽教学指南
+
+### https://www.btc36.com/2019/04/23/wallet-satter-tech/
+
 ## 博客模板 (测试版)
 
 想克隆本博客网站模板而不是想访问春天区块链？方案来了！ 
