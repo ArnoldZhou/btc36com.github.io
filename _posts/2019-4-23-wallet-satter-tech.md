@@ -20,7 +20,7 @@ tags:
 
 360极速浏览器下载链接：[https://ext.chrome.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill](https://ext.chrome.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill)
 
-360安全浏览器下载链接：[https://ext.se.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi](https://ext.se.360.cn/webstore/detail/cickkggoijngnjkmbmkibdhmklahopfi)
+360安全浏览器下载链接：[https://ext.se.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill](https://ext.se.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill)
 
 谷歌Chrome浏览器下载链接：[https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN](https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN)
 
