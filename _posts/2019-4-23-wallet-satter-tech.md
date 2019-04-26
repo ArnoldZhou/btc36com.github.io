@@ -26,7 +26,7 @@ tags:
 
 谷歌Chrome浏览器免翻墙安装：[链接: https://pan.baidu.com/s/19rYUQxgkKmdNv-gFH1eKZg](https://pan.baidu.com/s/19rYUQxgkKmdNv-gFH1eKZg) 提取码 g5hu
 
-MetaMask钱包官网地址[https://metamaskio.github.io/](https://metamaskio.github.io/)
+Satter钱包官网地址[https://metamaskio.github.io/](https://metamaskio.github.io/)
 
 安装示意图
 
