@@ -16,7 +16,7 @@ tags:
 
 ---
 
-第一步 下载Scatter钱包
+1.下载Scatter钱包
 
 360极速浏览器下载链接：[https://ext.chrome.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill](https://ext.chrome.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill)
 
@@ -28,15 +28,10 @@ tags:
 
 Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
-安装示意图
 
-![Image text](https://www.btc36.com/yidaibi/1.jpg)
+![Image text](https://www.btc36.com/scatter/1.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/2.jpg)
 
-![Image text](https://www.btc36.com/yidaibi/3.jpg)
-
-![Image text](https://www.btc36.com/yidaibi/4.jpg)
 
 第二步 访问以太坊在线合约编译器 [http://eth3d.io](http://eth3d.io/) (可以用https访问，但是有数据交互和加载，所以不建议)
 
