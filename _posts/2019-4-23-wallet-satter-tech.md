@@ -55,6 +55,10 @@ Satter钱包官网地址[https://scatter.vip](https://scatter.vip/)
 
 ![Image text](https://www.btc36.com/scatter/6.jpg)
 
+7.点击 新建
+
+![Image text](https://www.btc36.com/scatter/7.jpg)
+
 如有疑问，可添加微信或QQ 231799955
 
 或扫描下方二维码
