@@ -22,7 +22,7 @@ tags:
 
 360安全浏览器下载链接：[https://ext.se.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill](https://ext.se.360.cn/webstore/detail/ehmogaocddbafhjlfeebpmfagppnoill)
 
-谷歌Chrome浏览器下载链接：[https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN](https://chrome.google.com/webstore/detail/eth%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%92%B1%E5%8C%85/ahlijjcdflclgianfnacobheadjhonbd?hl=zh-CN)
+谷歌Chrome浏览器下载链接：[https://chrome.google.com/webstore/detail/eos%E6%9F%9A%E5%AD%90%E9%92%B1%E5%8C%85/fcpokgkljmfpijolcgicmdildlenfalo?hl=zh-CN](https://chrome.google.com/webstore/detail/eos%E6%9F%9A%E5%AD%90%E9%92%B1%E5%8C%85/fcpokgkljmfpijolcgicmdildlenfalo?hl=zh-CN)
 
 谷歌Chrome浏览器免翻墙安装：[https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F](https://pan.baidu.com/s/1sUUr1g6pgMxr7fenhb7AkA#list/path=%2F)
 
